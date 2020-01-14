@@ -2,9 +2,6 @@
 
 #
 
-Jonathan Grossman and Ami Pedahzur
-
-
 
 This is the online appendix for the article &quot;The Quantitative Study of Terrorist Events: Challenges and Opportunities&quot; by Jonathan Grossman and Ami Pedahzur, which will be published in the _Oxford Encyclopedia of International Criminology_. I will post a link to the article once it is published.
 
